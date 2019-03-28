@@ -10,7 +10,7 @@ You'll see a few utility functions imported from `helpers.py`. See the bottom se
 ## Trie and Trie OOP
 To run: 
 ```
-python3 ./trie.py '<test-password>'
+$ python3 ./trie.py '<test-password>'
 ```
 `<test-password>` should be wrapped in `''`.
 
@@ -22,7 +22,7 @@ Depends on:
 
 To run:
 ```
-python3 weather <zip-code>
+$ python3 weather <zip-code>
 ```
 `<zip-code>` should be a 5 digit integer
 
@@ -41,12 +41,12 @@ Depends on:
 
 To run:
 ```
-python3 fizz_buzz_server
+$ python3 fizz_buzz_server
 ```
 
 Next, open another terminal session and run:
 ```
-curl http://localhost:8080/fizzbuzz?begin=0%26end=100
+$ curl http://localhost:8080/fizzbuzz?begin=0%26end=100
 ```
 
 I had some issues using `&` directly in the query-string, so I used the encoded `%26` instead. Also, there is very little error checking surrounding the querystring, so it's probably very easy to break. 
