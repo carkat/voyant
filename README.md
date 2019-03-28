@@ -4,7 +4,7 @@ For all examples, I am using python 3.6.8. If there are any errors due to dictio
 
 In the readme, you'll find user documentation. For implementation documentation, see the docstrings in each function body where implementatino documentation is needed. You'll find necessary explanations in the docstrings of each function, explaining how each one works. 
 
-You'll see a few utility functions imported from `helpers.py`. See the bottom section for descriptions of those functions. 
+You'll see a few utility functions imported from `helpers.py`. See the bottom section for descriptions for those functions.
 
 
 ## Trie and Trie OOP
