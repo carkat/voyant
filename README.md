@@ -2,6 +2,8 @@
 
 For all examples, I am using python 3.6.8. If there are any errors due to dictionaries and ordering, I'm using a few niceties that were implemented close to 3.7. 
 
+All tests require internet access.
+
 In the readme, you'll find user documentation. For implementation documentation, see the docstrings in each function body where implementatino documentation is needed. You'll find necessary explanations in the docstrings of each function, explaining how each one works. 
 
 You'll see a few utility functions imported from `helpers.py`. See the bottom section for descriptions for those functions.
